@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "RashPatnaik55"
 
     workspaces {
       name = "learn-terraform-cloud"
